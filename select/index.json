@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイ・エイント・ウォーリード",
+  "base_artist": "ワンリパブリック",
+  "createdAt": "2026-03-02T14:49:06.748410Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイ・エイント・ウォーリード",
+      "artist": "ワンリパブリック",
+      "has_synced": false,
+      "path": "select/pl_01_アイ・エイント・ウォーリード_ワンリパブリック.txt"
+    }
+  ]
+}
